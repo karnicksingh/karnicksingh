@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karnick Singh
 
-🎓 B.Tech Student | 💻 Full Stack Web Development Learner  
+🎓  💻 Full Stack Web Development 
 🚀 Passionate about building real-world web applications.
 
 ---
