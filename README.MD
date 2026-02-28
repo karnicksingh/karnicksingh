@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,mongodb,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,mongodb,mysql,postman,bootstrap" />
 </p>
 
 <p align="left">
@@ -25,11 +25,7 @@
 </p>
 ---
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karnicksingh&show_icons=true&theme=radical)
-
----
 
 ## 🔥 GitHub Streak
 
