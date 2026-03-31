@@ -7,10 +7,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning Full Stack Development
+- 🌱 Full Stack Development
 - 💡 Interested in Backend & Real-Time Applications
 - 🧠 Practicing DSA using C++
-- 🔧 Love working with APIs and Databases
+- 🔧 Working with APIs and Databases
 
 ---
 
@@ -31,6 +31,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=karnicksingh&theme=radical)
 
----
-
-⭐ Always learning. Always building.
+--
